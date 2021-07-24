@@ -12,6 +12,7 @@
     "dotenv": "^8.2.0",
     "node-fetch": "^2.6.0",
     "numbers2words": "^1.4.0",
-    "sound-play": "^1.1.0"
+    "sound-play": "^1.1.0",
+    "thread": "^0.0.2"
   }
 }
